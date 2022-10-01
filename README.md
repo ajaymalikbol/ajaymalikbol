@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving & code optimization.
 - 🌱 I’m currently exploring hudi and dms to sync real time data from main db to analytical db...
 - 💞️ I’m looking to collaborate on any new ideas.
-- 📫 How to reach me ajay.malik@lji.io / majay2592@gmail.com...
+- 📫 How to reach me ajay.malik@lji.io / am1612701@gmail.com
 
 <!---
 ajaymalikbol/ajaymalikbol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
