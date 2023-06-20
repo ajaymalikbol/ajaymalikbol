@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ajaymalikbol
 - 👀 I’m interested in Problem solving & code optimization.
-- 🌱 I’m currently exploring hudi and dms to sync real time data from main db to analytical db...
+- 🌱 I’m currently exploring Hudi and dms to sync real-time data from the main db to the analytical db...
 - 💞️ I’m looking to collaborate on any new ideas.
+- 😁 Fell free to disturb me with new issues. Working on the unknown is a real deal for me.
 - 📫 How to reach me ajay.malik@lji.io / am1612701@gmail.com
 
 <!---
